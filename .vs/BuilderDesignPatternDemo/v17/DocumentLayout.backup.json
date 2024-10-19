@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\models\\applebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\models\\applebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\models\\nokiabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\models\\nokiabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\models\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\models\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 26\\builderdesignpatterndemo\\builderdesignpatterndemo\\models\\mobiledirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8E0D89-DA28-4F16-9305-FE5A9A4A6EC7}|BuilderDesignPatternDemo\\BuilderDesignPatternDemo.csproj|solutionrelative:builderdesignpatterndemo\\models\\mobiledirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobileDirector.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\MobileDirector.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Models\\MobileDirector.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\MobileDirector.cs",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Models\\MobileDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:18:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\Mobile.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Models\\Mobile.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\Mobile.cs*",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Models\\Mobile.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:11:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppleBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\AppleBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Models\\AppleBuilder.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\AppleBuilder.cs",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Models\\AppleBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:10:43.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NokiaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\NokiaBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Models\\NokiaBuilder.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\NokiaBuilder.cs",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Models\\NokiaBuilder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:08:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\IBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Models\\IBuilder.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Models\\IBuilder.cs",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Models\\IBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:07:43.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPatternDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 26\\BuilderDesignPatternDemo\\BuilderDesignPatternDemo\\Program.cs*",
+              "RelativeToolTip": "BuilderDesignPatternDemo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:07:08.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

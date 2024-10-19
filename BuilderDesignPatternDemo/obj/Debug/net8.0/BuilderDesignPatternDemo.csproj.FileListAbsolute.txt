@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\bin\Debug\net8.0\BuilderDesignPatternDemo.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\bin\Debug\net8.0\BuilderDesignPatternDemo.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\bin\Debug\net8.0\BuilderDesignPatternDemo.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\bin\Debug\net8.0\BuilderDesignPatternDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\bin\Debug\net8.0\BuilderDesignPatternDemo.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\refint\BuilderDesignPatternDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\BuilderDesignPatternDemo.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 26\BuilderDesignPatternDemo\BuilderDesignPatternDemo\obj\Debug\net8.0\ref\BuilderDesignPatternDemo.dll
